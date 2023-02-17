@@ -1,6 +1,13 @@
 h1{
     font-size: 40px;
-    color:aquamarine;
+    color:rgb(151, 48, 35);
     font-style: italic;
+    font-family: 'Alfa Slab One', cursive;
+}
 
+p{
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 30px;
+    color:rgb(68, 4, 44);
+    line-height: 55px;
 }
