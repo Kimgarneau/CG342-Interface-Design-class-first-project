@@ -24,6 +24,13 @@ h2{
     font-family: 'Alfa Slab One', cursive;
 }
 
+h3{
+    font-size: 40px;
+    color:rgb(11, 62, 104);
+    font-style: italic;
+    font-family: 'Alfa Slab One', cursive;
+}
+
 .button-links{
     border-style: solid;
     border-color: darkmagenta;
@@ -34,7 +41,7 @@ h2{
     padding: 4px;
     border-radius: 10px;
     display: block;
-    width: 100px;
+    width: 200px;
 }
 
 .button-alert{
@@ -47,5 +54,5 @@ h2{
     padding: 4px;
     border-radius: 10px;
     display: block;
-    width: 100px;
+    width: 200px;
 }
