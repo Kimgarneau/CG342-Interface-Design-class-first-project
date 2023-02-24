@@ -12,9 +12,16 @@ h1{
 
 p{
     font-family: 'Alfa Slab One', cursive;
-    font-size: 30px;
+    font-size: 20px;
     color:rgb(95, 16, 131);
     line-height: 55px;
+}
+
+h2{
+    font-size: 40px;
+    color:darkslateblue;
+    font-style: italic;
+    font-family: 'Alfa Slab One', cursive;
 }
 
 .button-links{
