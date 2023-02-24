@@ -19,7 +19,7 @@ p{
 
 h2{
     font-size: 30px;
-    color:darkslateblue;
+    color:rgb(11, 62, 104);
     font-style: italic;
     font-family: 'Alfa Slab One', cursive;
 }
@@ -41,7 +41,7 @@ h3{
     padding: 4px;
     border-radius: 10px;
     display: block;
-    width: 200px;
+    width: 400px;
 }
 
 .button-alert{
@@ -54,5 +54,24 @@ h3{
     padding: 4px;
     border-radius: 10px;
     display: block;
-    width: 200px;
+    width: 400px;
+}
+
+.top-banner{
+    height: 240px;
+    text-align: center;
+    padding-top: 110px;
+    background-color:rgb(201, 126, 188)
+}
+
+.main-content{
+    width: 800px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+footer{
+    height: 100px;
+    text-align: center;
+    padding: 10px  0; 
 }
