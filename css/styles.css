@@ -31,4 +31,21 @@ h2{
     border-width: 2px;
     text-decoration: none;
     color: black;
+    padding: 4px;
+    border-radius: 10px;
+    display: block;
+    width: 100px;
+}
+
+.button-alert{
+    border-style: dotted;
+    border-color: darkmagenta;
+    background-color: cornsilk;
+    border-width: 4px;
+    text-decoration: none;
+    color: rgb(41, 4, 90);
+    padding: 4px;
+    border-radius: 10px;
+    display: block;
+    width: 100px;
 }
