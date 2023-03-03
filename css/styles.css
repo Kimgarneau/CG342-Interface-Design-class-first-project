@@ -67,8 +67,8 @@ nav{
 
 .nav-links{
     list-style-type: none;
-    width: 200px;
-    margin: 0;
+    width: 400px;
+    margin: 0 auto;
     padding: 0;
 
 }
