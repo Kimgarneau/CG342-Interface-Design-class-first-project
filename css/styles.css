@@ -59,8 +59,15 @@ h3{
     margin: 25px 0 auto;
 }
 
+nav{
+    padding: 20px;
+    background-color: indianred;
+
+}
+
 .nav-links{
     list-style-type: none;
+    width: 200px;
     margin: 0;
     padding: 0;
 
