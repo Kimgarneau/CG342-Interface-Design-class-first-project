@@ -2,6 +2,10 @@ body{
     background-color: lavenderblush;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 /*typography*/
 h1{
     font-size: 40px;
