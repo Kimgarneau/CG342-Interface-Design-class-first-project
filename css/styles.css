@@ -61,7 +61,7 @@ h4{
     color: rgb(41, 4, 90);
     padding: 4px;
     border-radius: 10px;
-    display: block;
+    display: inline;
     width: 100px;
     margin: 25px 0 auto;
     text-align:center;
