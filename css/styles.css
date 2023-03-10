@@ -123,6 +123,14 @@ footer{
     padding: 10px  0; 
 }
 
+img{
+    width: 100%;
+}
+
+.article-image{
+    width: 300px;
+}
+
 /*Mobile styles*/
 
 @media only screen and (max-width: 600px){
