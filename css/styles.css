@@ -122,3 +122,23 @@ footer{
     text-align: center;
     padding: 10px  0; 
 }
+
+/*Mobile styles*/
+
+@media only screen and (max-width: 600px){
+    /*mobile styles go here*/
+    body{
+        background-color: #fff0f5; 
+    }
+
+    h1{
+        font-size: 40px;
+        color:#143047;
+        font-style: italic;
+        font-family: 'Alfa Slab One', cursive;
+    }
+
+    h2{
+        color:rgb(20, 48, 71)
+    }
+}
