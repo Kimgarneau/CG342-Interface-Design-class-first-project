@@ -130,6 +130,7 @@ img{
 
 .article-image{
     width: 300px;
+
 }
 
 /*Mobile styles*/
@@ -137,7 +138,7 @@ img{
 @media only screen and (max-width: 600px){
     /*mobile styles go here*/
     body{
-        background-color:lavenderblush; 
+        background-color:rgb(238, 125, 163); 
     }
 
     h1{
